@@ -10,14 +10,12 @@
 </picture>
 
 <h2>Solving problems, building innovative projects and continuously learning new technologies</h2>
-<div align = "center">
-  <ul>
-    <li>Currently studying Computer Engineering at the Universidad Jose Antonio Paez🎓</li>
-    <li>An enthusiastic student and passionate developer on a mission to master Python, Java, and web development.</li>
-    <li>Here on GitHub, you'll find a collection of my work, from small coding exercises to larger, more complex applications.</li>
-    <li>I'm excited to collaborate with other developers and contribute to open-source projects as I grow my skills. Let's create something amazing together!</li>
-  </ul>
-</div>
+<ul>
+  <li>Currently studying Computer Engineering at the Universidad Jose Antonio Paez🎓</li>
+  <li>An enthusiastic student and passionate developer on a mission to master Python, Java, and web development.</li>
+  <li>Here on GitHub, you'll find a collection of my work, from small coding exercises to larger, more complex applications.</li>
+  <li>I'm excited to collaborate with other developers and contribute to open-source projects as I grow my skills. Let's create something amazing together!</li>
+</ul>
 
 <h2>Technologies</h2>
 <div align = "center">
