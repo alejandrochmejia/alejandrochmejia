@@ -1,3 +1,4 @@
+# I'm Alejandro, from Venezuela
 ![Alejandro, the developer](resources/banner.png)
 
 <picture>
@@ -6,10 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Hi 👋
-## I'm Alejandro, from Venezuela
 ### Solving problems, building innovative projects and continuously learning new technologies
-
 * Currently studying Computer Engineering at the Universidad Jose Antonio Paez🎓
 * An enthusiastic student and passionate developer on a mission to master Python, Java, and web development. 
 * Here on GitHub, you'll find a collection of my work, from small coding exercises to larger, more complex applications.
