@@ -1,4 +1,4 @@
-# I'm Alejandro, from Venezuela
+# Hi. I'm Alejandro, from Venezuela 👋
 ![Alejandro, the developer](resources/banner.png)
 
 <picture>
