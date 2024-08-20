@@ -1,5 +1,7 @@
-# Hi. I'm Alejandro, from Venezuela 👋
-![Alejandro, the developer](resources/banner.png)
+<div align = "center">
+  <h1>Hi. I'm Alejandro, a developer from Venezuela 👋</h1>
+  <img width="100%" src="resources/banner.png">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake-dark.svg">
