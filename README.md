@@ -8,7 +8,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
 </picture>
-<a href="mailto:alejandrochmejia@gmail.com">
+<a href="mailto:alejandrochmejia@gmail.com"></a>
 
 <h2>Solving problems, building innovative projects and continuously learning new technologies 🌊</h2>
 <ul>
