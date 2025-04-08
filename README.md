@@ -8,7 +8,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
 </picture>
-<a href="mailto:alejandrochmejia@gmail.com"></a>
+
+<div align="center">
+  <a href="mailto:alejandrochmejia@gmail.com">
+    <img src="https://img.shields.io/badge/alejandrochmejia%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
+  </a>
+</div>
+
+<h2>Development Skills 💪</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,vite,tailwind&perline=10&theme=dark" />
+  </a>
+</p>
 
 <h2>Solving problems, building innovative projects and continuously learning new technologies 🌊</h2>
 <ul>
@@ -17,13 +29,3 @@
   <li>Here on GitHub, you'll find a collection of my work, from small coding exercises to larger, more complex applications.</li>
   <li>I'm excited to collaborate with other developers and contribute to open-source projects as I grow my skills. Let's create something amazing together!</li>
 </ul>
-
-<h2>Development Skills 💪</h2>
-<div align = "center">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-  <img width="10%" height="10%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-</div>
