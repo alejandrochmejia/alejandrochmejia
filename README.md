@@ -9,6 +9,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div></div>
+
 <div align="center">
   <a href="mailto:alejandrochmejia@gmail.com">
     <img src="https://img.shields.io/badge/alejandrochmejia%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
