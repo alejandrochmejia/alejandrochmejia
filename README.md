@@ -1,6 +1,5 @@
 <div align = "center">
   <h1>Hi. I'm Alejandro, a developer from Venezuela 🚀</h1>
-  <img width="100%" src="resources/banner.png">
 </div>
 
 <picture>
