@@ -19,13 +19,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,vite,tailwind&perline=10&theme=dark" />
-  </a> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 <h2>Stats 📊</h2>
-<p>
+<div style="display:flex;flex-direction:row;justify-content:center;">
   <img style="paddin: 0;" src="https://github-readme-stats.vercel.app/api?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrochmejia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
