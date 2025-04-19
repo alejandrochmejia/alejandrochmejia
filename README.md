@@ -24,8 +24,8 @@
 
 <h2>Stats 📊</h2>
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img style="paddin: 0;" src="https://github-readme-stats.vercel.app/api?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrochmejia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width=33% height=200 src="https://github-readme-stats.vercel.app/api?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width=33% height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrochmejia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width=33% height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
