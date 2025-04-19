@@ -2,6 +2,12 @@
   <h1>Hi. I'm Alejandro, a Full-Stack developer 🚀</h1>
   <p>Solving problems, building innovative projects and continuously learning new technologies 🌊</p>
 </div>
+<hr>
+<div align="center">
+  <a href="mailto:alejandrochmejia@gmail.com">
+    <img src="https://img.shields.io/badge/alejandrochmejia%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrochmejia/alejandrochmejia/output/github-contribution-grid-snake-dark.svg">
@@ -19,14 +25,9 @@
 <h2>Stats 📊</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrochmejia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrochmejia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-
-<hr>
-<div align="center">
-  <a href="mailto:alejandrochmejia@gmail.com">
-    <img src="https://img.shields.io/badge/alejandrochmejia%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
-  </a>
-</div>
 
