@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Alejandro Chávez - Full-Stack developer 🚀</h1>
   <p>Solving problems, building innovative projects and continuously learning new technologies 🌊</p>
-  <h1></h1>
 </div>
 <div align="center">
   <a href="mailto:alejandrochmejia@gmail.com">
