@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Alejandro Chávez - Full-Stack developer 🚀</h1>
   <p>Solving problems, building innovative projects and continuously learning new technologies 🌊</p>
+  <h1></h1>
 </div>
-<hr>
 <div align="center">
   <a href="mailto:alejandrochmejia@gmail.com">
     <img src="https://img.shields.io/badge/alejandrochmejia%40gmail.com-white?style=for-the-badge&logo=Gmail" alt="Email Badge">
