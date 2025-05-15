@@ -18,7 +18,7 @@
 <h2>Development Skills 💪</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,vite,tailwind,typescript&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,react,python,java,tailwind,typescript&perline=10&theme=dark" />
   </a>
 </p>
 
