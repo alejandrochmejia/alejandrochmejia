@@ -16,7 +16,9 @@
 ### 🛠️ Tech I work with
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,react,supabase,docker,linux,nginx,git,cloudflare,figma&perline=10" />
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,nestjs,react,supabase,docker,expo,capacitor,nginx,git,cloudflare,claude,mcp,n8n,kotlin,vuejs,angular,python,java,javascript,typescript&perline=10" />
+    </a>
 </p>
 
 ### 🐍 Contribution graph
