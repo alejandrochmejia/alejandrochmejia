@@ -16,7 +16,7 @@
 ### 🛠️ Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,java,html,css,git,github,vscode,figma,vercel,aws&perline=8&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,react,supabase,docker,linux,nginx,git,cloudflare,figma&perline=10" />
 </p>
 
 ### 🐍 Contribution graph
