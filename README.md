@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://alejandrochavez.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-237AFC?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://alejandrochmejia.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-237AFC?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:alejandrochmejia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=alejandrochmejia&style=for-the-badge&color=237AFC&label=PROFILE+VIEWS">
 </div>
